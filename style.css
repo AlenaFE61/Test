@@ -12,12 +12,6 @@
   box-sizing:border-box;
 }
 
- body{
-  background-color: var(--primery-white-color);
-  color: var(--primery-tetx-color);
-  font-family: 'Roboto' , sans-serif;
-  letter-spacing: 0.03em;
- }
 h1,h2,h3,p, li,ul{
   margin:0;
 }
@@ -37,9 +31,6 @@ a{
 address{
   padding-top: 20px;
 }
-
-
-
 
 /* Загальні стилі */
 
